@@ -1,4 +1,6 @@
 # FreeDSP_Catamaran_AB
+<img width="2080" height="1526" alt="IMG_5278" src="https://github.com/user-attachments/assets/9ea79303-5dce-442c-952c-d434b5c972f3" />
+
 A dual mono construction Concept Differential ADC 1 in 4 out ADAU1701 board. Extreme High performance (ADC to DAC Overall Distortion 0.00087%) differential A/D Conversion, differential RCA-pin Outputs, fs=96kHz, 8 slots TDM-Interlink across the boards.
 
 Features:
@@ -25,7 +27,7 @@ Features:
 
 PCBA file package included in JLPCB_OrderFiles. You can order SMT and Boards. (https://jlcpcb.com/) 
 
-A Wiki Page(https://github.com/freeDSP/FreeDSP_Catamaran_AB/wiki) of this project
+A Wiki Page([https://github.com/freeDSP/FreeDSP_Catamaran_AB/wiki](https://github.com/freeDSP/FreeDSP_Catamaran_AB/wiki/FreeDSP-Catamaran-Wiki-Home)) of this project
 
 Discussion forum thread (https://www.diyaudio.com/community/threads/freedsp-catamaran-a-b.381417/)
 
